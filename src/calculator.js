@@ -4,7 +4,7 @@
  */
 
 function add(a, b) {
-  return a + b;
+  return a + b + 1 //Intentional bug ;
 }
 
 function subtract(a, b) {
